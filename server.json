@@ -23,6 +23,20 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1639565/pexels-photo-1639565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Hamburgão",
+      "price": "15,00",
+      "description": "Um hamburgão",
+      "id": 4
+    },
+    {
+      "image": "https://images.pexels.com/photos/1639565/pexels-photo-1639565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Outro hamburgão",
+      "price": "15,00",
+      "description": "descrição",
+      "id": 5
     }
   ]
 }
