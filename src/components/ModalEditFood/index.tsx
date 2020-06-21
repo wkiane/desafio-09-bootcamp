@@ -39,6 +39,7 @@ const ModalEditFood: React.FC<IModalProps> = ({
 
   const handleSubmit = useCallback(
     async (data: IEditFoodData) => {
+      handleUpdateFood(data);
       // EDIT A FOOD PLATE AND CLOSE THE MODAL
     },
     [handleUpdateFood, setIsOpen],
